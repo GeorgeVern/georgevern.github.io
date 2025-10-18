@@ -20,7 +20,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! I am currently an ML Engineer at Google DeepMind in the GenAI team, working on multimodality and specifically video generation ([Veo](https://deepmind.google/models/veo/)).
+I am currently an ML Engineer at Google DeepMind in the GenAI team, working on multimodality and specifically video generation ([Veo](https://deepmind.google/models/veo/)).
 
 Prior to that, I obtained my Ph.D. from [EPFL](https://www.epfl.ch/en/) while being a research assistant at [HEIG-VD](https://heig-vd.ch/) in Switzerland. My Ph.D. advisor was [Andrei Popescu-Belis](http://iict-space.heig-vd.ch/apu/). My research focused on machine translation and its evaluation, and large language models.
 
